@@ -1,0 +1,6 @@
+
+enunciado = "juega con una lista de frutas"
+lista_frutas = ["manzana", "pera", "naranja", "uva","mango"]
+nombre = input("manzana")
+nombre = input("mango")
+nombre = input("naranja")
